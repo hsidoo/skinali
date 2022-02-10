@@ -1,8 +1,9 @@
 .hero {
-  background: #f1f1f1 url("../img/hero/hero.jpg") no-repeat center top 80px;
-  background-size: contain;
-  padding-top: 180px;
+  background: #f1f1f1 url("../img/hero/hero.jpg") no-repeat center top;
+  background-size: cover;
+  padding-top: 120px;
   padding-bottom: 270px;
+  margin-top: 80px;
 
   &__title {
     font-size: 30px;
@@ -14,8 +15,11 @@
     @include bold;
   margin-bottom:67px;
   }
-  &__button {
 
+@media (max-width: 991px) {
+  .hero {
+  background-size: 100%;
+  background-position: top left;
   }
-
+}
 }

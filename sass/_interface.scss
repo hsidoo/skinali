@@ -2,7 +2,9 @@ body {
   font-family: 'Proxima Nova Light', sans-serif;
   color: $text-color;
 }
-
+ img {
+max-width: 100%;
+ }
 .section {
   padding: 100px 0;
   &-title {
@@ -24,6 +26,7 @@ body {
   color: $primary;
   @include bold;
   background-color: white;
+  text-decoration: none;
 }
 
 .button {
@@ -34,6 +37,21 @@ body {
   color: white;
   @include bold;
   cursor: pointer;
+  text-decoration: none;
+  &-fitting{
+    color: $primary;
+    background-color: #fff;
+  }
+   &-add {
+     background-color: lighten($primary,10%);
+     color: #ffffff;
+   }
+  &-like {
+    background-color: $primary;
+    height: 30px;
+    border: none;
+    width:30px;
+  }
 }
 
 .bg-secondary {

@@ -11,7 +11,7 @@
     @include bold;
   }
 
-  &link-more {
+  &__link-more {
     color: $primary;
     font-size: 16px;
   }
@@ -29,19 +29,21 @@
     &__text {
       display: flex;
       justify-content: center;
-      text-align: center;
+      align-items: center;
       min-height: 80px;
-     @include bold;
+      @include bold;
     }
-   &__card {
-    margin-bottom: 20px;
-   }
-    &-card {
-      box-shadow: 0 5px 10px rgb(0, 0, 0, 0.08);
-      background-color: #510bba;
 
+    &__card {
+      margin-bottom: 20px;
     }
+
   }
+
+  &-card {
+    box-shadow: 0 5px 10px rgb(0, 0, 0, 0.08);
+  }
+}
   @media (max-width: 991px) {
     .blog {
       &-list{
@@ -53,4 +55,3 @@
       }
     }
   }
-}

@@ -10,24 +10,25 @@
       margin-bottom: 100px;
     }
   }
-  @media (max-width: 991px) {
-    .features {
-      &-block {
-       &__item{
-         flex-basis: 50%;
-       }
+
+}
+@media (max-width: 991px) {
+  .features {
+    &-block {
+      &__item{
+        flex-basis: 50%;
       }
     }
   }
-  @media (max-width: 768px) {
-    .features {
-      &-block {
+}
+@media (max-width: 768px) {
+  .features {
+    &-block {
       &__item {
-      flex-basis: 100%;
-      margin-bottom: 50px;
+        flex-basis: 100%;
+        margin-bottom: 50px;
       }
     }
-    }
-    
   }
+
 }

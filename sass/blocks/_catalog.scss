@@ -62,14 +62,15 @@
      }
 
 
-  @media (max-width: 1199px) {
-    .catalog {
-      &-block {
+
+}
+@media (max-width: 1199px) {
+  .catalog {
+    &-block {
       justify-content: center;
-      }
-      &-card {
-        max-width: 470px;
-      }
+    }
+    &-card {
+      max-width: 470px;
     }
   }
 }

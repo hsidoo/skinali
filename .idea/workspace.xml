@@ -26,7 +26,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="464775b5-96e6-4789-b7d8-76a640b62eb3" name="Default Changelist" comment="" />
+    <list default="true" id="464775b5-96e6-4789-b7d8-76a640b62eb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_interface.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_interface.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/blocks/_offer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/_offer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/blocks/_price.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/_price.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.css.map" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +66,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/sass/blocks" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -94,7 +101,10 @@
       <workItem from="1646314278936" duration="3057000" />
       <workItem from="1646317608349" duration="1490000" />
       <workItem from="1646320722051" duration="3599000" />
-      <workItem from="1646655101581" duration="5467000" />
+      <workItem from="1646655101581" duration="5972000" />
+      <workItem from="1646747935440" duration="608000" />
+      <workItem from="1646748577616" duration="361000" />
+      <workItem from="1646750462148" duration="2544000" />
     </task>
     <servers />
   </component>
@@ -135,10 +145,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1644265109579" />
-    <state x="438" y="191" key="EditFileWatcherDialog" timestamp="1644264865494">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="1804" y="107" key="EditFileWatcherDialog" timestamp="1646751042002">
+      <screen x="1366" y="-86" width="1536" height="832" />
     </state>
     <state x="438" y="191" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1644264865494" />
+    <state x="1804" y="107" key="EditFileWatcherDialog/1366.-86.1536.832/0.0.1366.728@1366.-86.1536.832" timestamp="1646751042002" />
     <state x="1906" y="29" key="RollbackChangesDialog" timestamp="1646241728280">
       <screen x="1366" y="-86" width="1536" height="832" />
     </state>
@@ -147,11 +158,11 @@
       <screen x="1366" y="-86" width="1536" height="832" />
     </state>
     <state x="1643" y="-29" key="SettingsEditor/1366.-86.1536.832/0.0.1366.728@1366.-86.1536.832" timestamp="1646655383413" />
-    <state x="479" y="14" width="578" height="788" key="find.popup" timestamp="1645904576743">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="1845" y="-72" width="578" height="795" key="find.popup" timestamp="1646751782069">
+      <screen x="1366" y="-86" width="1536" height="832" />
     </state>
     <state x="479" y="14" width="578" height="788" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1645904576743" />
-    <state x="1845" y="-72" width="578" height="795" key="find.popup/1366.-86.1536.832/0.0.1366.728@1366.-86.1536.832" timestamp="1644409514754" />
+    <state x="1845" y="-72" width="578" height="795" key="find.popup/1366.-86.1536.832/0.0.1366.728@1366.-86.1536.832" timestamp="1646751782069" />
     <state x="1791" y="144" key="run.anything.popup" timestamp="1646061663108">
       <screen x="1366" y="-86" width="1536" height="832" />
     </state>
